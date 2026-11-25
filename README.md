@@ -1,22 +1,16 @@
 # OpenDarts
 
-OpenDarts ist ein offenes Projekt für Steeldarts: eine Web-App zum Spielen und Zählen und eine Kamera-Erkennung mit drei Kameras an 3D-gedruckten Armen.
+OpenDarts is an open steel-tip darts project: a web app for playing and scoring, and camera detection with three cameras on 3D-printed arms.
 
-- **App:** Spielmodi, Zählung, Statistik. Läuft im Browser, gegen Bots, vor Ort oder online mit Freunden.
-- **Erkennung:** drei USB-Kameras im 120°-Abstand um die Scheibe. Die Arme passen an Target Corona, Winmau Plasma oder universell an die Wand.
+- **App:** game modes, scoring, statistics. Runs in the browser, against bots, locally or online with friends.
+- **Detection:** three USB cameras spaced 120° apart around the board. The arms fit the Target Corona, the Winmau Plasma, or mount universally on the wall.
 
-## Stand
+## Status
 
-Das Projekt ist in Entwicklung. Code, Anleitung und Lizenz kommen schrittweise in dieses Repository.
+The project is under development. Code, guide and license will be added to this repository step by step.
 
-Fehler und Ideen bitte als [Issue](https://github.com/timojeschke/opendarts/issues).
+Please report bugs and ideas as an [issue](https://github.com/timojeschke/opendarts/issues).
 
 ---
 
-# OpenDarts (English)
-
-OpenDarts is an open steel-tip darts project: a web app for playing and scoring, and camera detection with three cameras on 3D-printed arms.
-
-The project is under development. Code, guide and license will be added to this repository step by step. Please report bugs and ideas as an [issue](https://github.com/timojeschke/opendarts/issues).
-
-Die Namen Target, Corona, Winmau und Plasma nennen nur die Passform. Sie sind Marken ihrer Inhaber. / The names Target, Corona, Winmau and Plasma only describe the fit. They are trademarks of their owners.
+The names Target, Corona, Winmau and Plasma only describe the fit. They are trademarks of their respective owners.
